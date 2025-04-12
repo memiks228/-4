@@ -1,0 +1,14 @@
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\bin\Debug\net8.0\Задача 3.11.exe
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\bin\Debug\net8.0\Задача 3.11.deps.json
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\bin\Debug\net8.0\Задача 3.11.runtimeconfig.json
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\bin\Debug\net8.0\Задача 3.11.dll
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\bin\Debug\net8.0\Задача 3.11.pdb
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\Задача 3.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\Задача 3.11.AssemblyInfoInputs.cache
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\Задача 3.11.AssemblyInfo.cs
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\Задача 3.11.csproj.CoreCompileInputs.cache
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\Задача 3.11.dll
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\refint\Задача 3.11.dll
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\Задача 3.11.pdb
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\Задача 3.11.genruntimeconfig.cache
+C:\Users\ДИМКА\source\repos\контрольная работа 4 3\Задача 3.11\obj\Debug\net8.0\ref\Задача 3.11.dll
