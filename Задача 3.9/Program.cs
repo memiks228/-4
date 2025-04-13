@@ -30,7 +30,7 @@
                         totalDistance += (1.0 / (i - 1));
                 }
 
-                Console.WriteLine($totalDistance);
+                Console.WriteLine(totalDistance);
             }
         }
     }
